@@ -53,5 +53,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"https://alkasem-app.blogspot.com/?m=1"
+","url":"http://alkasem-app.blogspot.com/2018/06/falooojenappv380.html?m=1"
 }
