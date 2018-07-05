@@ -1,4 +1,4 @@
-{"version_code":451200,"content":"
+{"version_code":451202,"content":"
 <p>تحديث 1.10</p>
 <li>التحديث لنسخة الماركت 2.18.122</li>
 <li>إمكانية وضع حالة (الستوري) مدة غير محدودة</li>
@@ -54,5 +54,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"https://alkasem-app.blogspot.com/?m=1"
+","url":"http://alkasem-app.blogspot.com/2018/07/falooojenappv110.html"
 }
