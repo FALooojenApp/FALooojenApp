@@ -41,5 +41,5 @@
 <li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many Other Fixes</li>
 
-","url":"http://alkasem-app.blogspot.com/2018/07/falooojenappv110.html"
+","url":"https://alkasem-app.blogspot.com/?m=1"
 }
