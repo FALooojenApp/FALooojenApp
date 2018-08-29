@@ -1,4 +1,4 @@
-{"version_code":451207,"content":"
+{"version_code":451201,"content":"
 <p>تحديث 1.20.</p>
 
 <li>اشترك في قناة ايوتيوب المطور</li>
