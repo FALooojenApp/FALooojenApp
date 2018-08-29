@@ -1,8 +1,8 @@
 {"version_code":451200,"content":"
 <p>تحديث 1.20.</p>
 
-<li>التحديث لنسخة الماركت 2.18.122</li>
-<li> إضافة كاسر بروكسي</li>
+<li>اشترك في قناة ايوتيوب المطور</li>
+<li> اشترك في قناة المطور وشكرا</li>
 <li> إضافة خيار لتغيير الخلفيات ووضع صورتك او اي صورة في ( الشاشة الرئيسية/ شاشة الحالة/ شاشة الإتصال)</li>
 <li> إضافة خيار المؤثرات (يمكنك اختيار مؤثرات في كل مكان + يمكنك تعطيلها)</li>
 <li>[حصرياً] يمكنك التحكم في كثافة المؤثرات</li>
@@ -41,5 +41,5 @@
 <li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many Other Fixes</li>
 
-","url":"http://alkasem-app.blogspot.com/2018/08/falooojenapp-v1-20.html?m=1"
+","url":"https://www.youtube.com/channel/UCv59vIsumovUl3-kNL9h5ng"
 }
